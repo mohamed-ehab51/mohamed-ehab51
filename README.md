@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
 <h3 align="center">A junior cyber security student and a flutter developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ehab51" alt="mohamed-ehab51" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamed-ehab51](https://github.com/mohamed-ehab51)
 
@@ -21,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab51&show_icons=true&locale=en" alt="mohamed-ehab51" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ehab51&" alt="mohamed-ehab51" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ehab51" alt="mohamed-ehab51" /></a> </p>
