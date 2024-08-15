@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **mohamed.ehab.cs512@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TMlLjBpO9jirI1M3GPZ-r9c1gTorNAfr/view?usp=sharing](https://drive.google.com/file/d/1TMlLjBpO9jirI1M3GPZ-r9c1gTorNAfr/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1FQOSseX-vD4TG9QUZjBTKWnRT2noxx5G?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
