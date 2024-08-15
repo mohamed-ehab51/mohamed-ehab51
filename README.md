@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **mohamed.ehab.cs512@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1FQOSseX-vD4TG9QUZjBTKWnRT2noxx5G?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1FQOSseX-vD4TG9QUZjBTKWnRT2noxx5G?usp=sharing) [Freelancer account](https://www.freelancer.com/u/MohamedEhab1048?sb=t) [Linkedin](https://www.linkedin.com/in/mohamed-ehab-512m)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
