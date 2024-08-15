@@ -6,9 +6,9 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1FQOSseX-vD4TG9QUZjBTKWnRT2noxx5G?usp=sharing) [Freelancer account](https://www.freelancer.com/u/MohamedEhab1048?sb=t) [Linkedin](https://www.linkedin.com/in/mohamed-ehab-512m)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-ehab-51love410/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ehab-51love410/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ehab-512m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ehab-51love410/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/modydody512003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/modydody512003" height="30" width="40" /></a>
 </p>
 
